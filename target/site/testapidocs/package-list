@@ -1,0 +1,10 @@
+com.bestbuy.demotests.BaseTest
+com.bestbuy.demotests.pageobjects.basket
+com.bestbuy.demotests.pageobjects.cart
+com.bestbuy.demotests.pageobjects.checkout
+com.bestbuy.demotests.pageobjects.details
+com.bestbuy.demotests.pageobjects.home
+com.bestbuy.demotests.pageobjects.modal
+com.bestbuy.demotests.pageobjects.results
+com.bestbuy.demotests.testlisteners
+com.bestbuy.demotests.testpages
